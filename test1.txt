@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-test
-44333
-=======
-testtest
->>>>>>> 932676133c755feb88f0fdb4c8b58c767e1ad9f8
